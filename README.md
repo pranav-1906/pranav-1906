@@ -24,7 +24,7 @@
 <p>
   <a href="https://linkedin.com/in/pranav1906" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pranavsreekumar19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/__pranav.19" target="_blank"><img src="https://img.shields.io/badge/Instagram-white"/></a>
+  <a href="https://instagram.com/__pranav.19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
