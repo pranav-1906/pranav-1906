@@ -14,8 +14,8 @@
 ## 🛠 About Me:
 - 🌱 Currently learning **AI/ML** and **MERN Stack**
 - 🎯 Goal: Become a **Full Stack Developer** & **AI Engineer** by 2027
-- 🎨 Creative skills: **Photoshop, Blender, Illustrator, DaVinci Resolve**
-- 📫 Email: **your.email@example.com**
+- 🎨 Creative skills: **Photoshop, Illustrator, DaVinci Resolve**
+- 📫 Email: **pranavsreekumar19@gmail.com**
 - ⚡ Fun fact: I blend **code** with **design**
 
 ---
@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI_UX_Design"/>
-  <img src="https://img.shields.io/badge/Creative_Design"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Creative%20Design-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
 </p>
 
 ---
