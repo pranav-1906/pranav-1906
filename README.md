@@ -24,7 +24,7 @@
 <p>
   <a href="https://linkedin.com/in/pranav1906" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pranavsreekumar19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/__pranav.19" target="_blank"><img src="https://img.shields.io/badge/Instagram?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/__pranav.19" target="_blank"><img src="https://img.shields.io/badge/Instagram-white"/></a>
 </p>
 
 ---
@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI_UX_Design?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Creative_Design?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI_UX_Design"/>
+  <img src="https://img.shields.io/badge/Creative_Design"/>
 </p>
 
 ---
