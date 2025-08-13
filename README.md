@@ -5,14 +5,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav-1906&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🛠 About Me:
-- 🌱 Currently learning **AI/ML** and **MERN Stack**
+- 🌱 Currently learning **AI/ML** and **Web Development**
 - 🎯 Goal: Become a **Full Stack Developer** & **AI Engineer** by 2027
 - 🎨 Creative skills: **Photoshop, Illustrator, DaVinci Resolve**
 - 📫 Email: **pranavsreekumar19@gmail.com**
