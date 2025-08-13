@@ -54,14 +54,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranav-1906&theme=radical&no-frame=true&margin-w=15&margin-h=15&token=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" alt="trophies" />
-</p>
-
-
----
-
 ## 📌 Featured Projects:
 - [Portfolio](https://pranav19portfolio.netlify.app/)
 - [Drowsiness Detector](https://github.com/pranav-1906/drowsiness_detector)
