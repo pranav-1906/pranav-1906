@@ -20,10 +20,7 @@
 ---
 
 ## 🌐 Socials:
-<p>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/pranav19) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pranav.19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav1906) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavsreekumar19@gmail.com)
-</p>
-
 ---
 
 ## 💻 Skills:
