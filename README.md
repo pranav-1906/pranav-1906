@@ -1,7 +1,7 @@
 <h1 align="center"&color=f3f6f4>Hey, I'm Pranav 👋</h1>
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=ff1515&center=true&vCenter=true&width=500&lines=Designer;Developer;Hooman" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=ff1515&center=true&vCenter=true&width=500&lines=Designer;Developer;Coffee Powered Hooman" />
 </a>
 </p>
 
