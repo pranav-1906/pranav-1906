@@ -1,7 +1,14 @@
-<h1 align="center">Name's Pranav</h1>
+<h1 align="center">
+<span style="
+background: linear-gradient(90deg, #00c6ff, #0072ff);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 700;
+">Pranav</span>
+</h1>
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=f3f6f4&center=true&vCenter=true&width=500&lines=Designer;Developer;Hooman" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=f3f6f4&center=true&vCenter=true&width=500&lines=Designer;Developer;Coffee Powered Hooman" />
 </a>
 </p>
 
