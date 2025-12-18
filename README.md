@@ -52,3 +52,5 @@
 ## 📌 Featured Projects:
 - [Portfolio](https://pranav19portfolio.netlify.app/)
 - [Drowsiness Detector](https://github.com/pranav-1906/drowsiness_detector)
+- [Foodlink](https://foodlink-v1.netlify.app/)
+- [Loanbuddy](https://loanbuddy-ai-1.onrender.com/)
