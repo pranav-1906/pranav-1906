@@ -8,7 +8,7 @@
 ---
 
 ## 🛠 About Me:
-- 🎓 About Me: **3rd-year CSE** student trying to make computers obey me.
+- 🎓 About Me: **Final year CSE** student trying to make computers obey me.
 - 💼 What I Do: Build websites that (usually) work on the first try and **design** cool stuff.
 - 🤝 Collaboration: If it involves design or cool ideas, I’m in.
 - 🎨 Creative skills: **Photoshop, Illustrator, DaVinci Resolve**
