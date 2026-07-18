@@ -14,7 +14,7 @@
 - 🎨 Creative skills: **Photoshop, Illustrator, DaVinci Resolve**
 - 🌱 Learning: Java… and how to survive deadlines.
 - 💬 Ask Me About: Frontend, design, or why developers need 3 monitors.
-- 🧃 Portfolio: **[https://pranav-19.netlify.app/]**
+- 🧃 Portfolio: **https://pranav-19.netlify.app/**
 - 📫 Email: **pranavsreekumar19@gmail.com**
 - ⚡ Fun fact: I blend **code** with **design** and I’m a movie nerd - yes, I do give tech reviews cinema-style.
 
